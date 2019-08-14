@@ -32,12 +32,12 @@ You will need to install these dependencies:
 
 ## Built With
 
-JavaScript/React
-Node
-Postgres 
-Express
-Google Maps API
-Semantic-UI
+- JavaScript/React
+- Node
+- Postgres 
+- Express
+- Google Maps API
+- Semantic-UI
 
 ## Authors
 
